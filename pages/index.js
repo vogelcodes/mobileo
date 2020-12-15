@@ -17,6 +17,8 @@ export default function Home() {
             <h1 className={styles.title}>
               mobileo.mobi
             </h1>
+
+            
           
         </a>
 
@@ -43,9 +45,9 @@ export default function Home() {
         
       </main>
       <footer className={styles.footer}>
-        <h3>
+        
           mobileo.mobi - 2020
-        </h3>
+        
         
       </footer>
 
