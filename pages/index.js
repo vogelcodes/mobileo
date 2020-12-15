@@ -31,6 +31,10 @@ export default function Home() {
   
         
       </main>
+      <footer className={styles.footer}>
+        <h3>
+        mobileo.mobi - 2020 </h3> 
+      </footer>
 
       
     </div>
