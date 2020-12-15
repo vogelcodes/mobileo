@@ -9,7 +9,7 @@ export default function Copyright() {
         mobileo.mobi -       {new Date().getFullYear()}
 
       </MuiLink>{' '}
-      {'.'}
+      
     </Typography>
   );
 }
