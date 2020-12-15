@@ -30,10 +30,7 @@ const useStyles = makeStyles((theme) =>
       paddingInlineStart: 0,
       
     },
-    li: {
-      marginTop: 8, 
-
-    },
+    
     image: {
       borderRadius: 15,
     }
