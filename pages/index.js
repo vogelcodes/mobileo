@@ -29,11 +29,7 @@ export default function Home() {
         </a>
         
   
-        <div className={styles.grid}>
-         
-
-          
-        </div>
+        
       </main>
 
       
