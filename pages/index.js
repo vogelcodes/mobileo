@@ -30,8 +30,14 @@ export default function Home() {
 
         <ul>
             <li>Marcenaria personalizada</li>
-            <li>Madeiras maciças, MDF e compensado.</li>
-            <li><ImWhatsapp /> (21)98169-7373</li>
+            <li>Madeiras maciças, MDF e compensado</li>
+            <br/>
+            <br/>
+            <li>
+              <a href="https://wa.me/5521981697373?text=Oi%2C+tudo+bem%3F+Eu+gostaria+de+fazer+um+or%C3%A7amento.">
+              <ImWhatsapp /> (21)98169-7373
+              </a>
+              </li>
         </ul>
   
         
